@@ -2,11 +2,9 @@
 
 ## Project Overview
 
-The goal of this project is to identify the causes behind unfulfilled orders at Gokada using causal inference techniques. The project involves exploratory data analysis (EDA) to gain insights into the data, ensuring proper data cleaning and preparation for downstream analysis and machine learning. Feature engineering is also performed to enrich the data with additional variables.
+This project aims to determine the causes of unfulfilled orders at Gokada using causal inference methods. By conducting thorough exploratory data analysis (EDA) and feature engineering, we can prepare the data for effective downstream analysis and machine learning tasks.
 
 ## Table of Contents
-
-- [Introduction](#introduction)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -14,11 +12,6 @@ The goal of this project is to identify the causes behind unfulfilled orders at 
 - [Feature Engineering](#feature-engineering)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
-
-## Introduction
-
-This project aims to determine the causes of unfulfilled orders at Gokada using causal inference methods. By conducting thorough exploratory data analysis (EDA) and feature engineering, we can prepare the data for effective downstream analysis and machine learning tasks.
-
 
 ## Getting Started
 
